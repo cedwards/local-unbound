@@ -1,0 +1,2 @@
+service local_unbound setup
+service local_unbound start
